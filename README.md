@@ -21,8 +21,25 @@ I love learning new technologies, solving problems, and building projects that p
 
 🛠️ Tech Stack & Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,redux,reactquery,git,github,vscode,figma" />
+## 💻 Technologies & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" />
+</p>
+
+**Styling**
+<p>
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,sass" />
+</p>
+
+**State Management & Data**
+<p>
+  <img src="https://skillicons.dev/icons?i=redux" />
+</p>
+
+**Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 </p>
 
 

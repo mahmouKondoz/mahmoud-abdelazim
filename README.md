@@ -45,8 +45,8 @@ I love learning new technologies, solving problems, and building projects that p
 ## 📫 Let's Connect!
 
 <p align="center">
-  <a href="https://github.com/mahmouKondoz" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="50" height="50" alt="GitHub" />
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50" height="50" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:YOUR_EMAIL@gmail.com">
@@ -60,8 +60,6 @@ I love learning new technologies, solving problems, and building projects that p
 
 ✨ Thanks for visiting my profile!
 
-⭐ Feel free to explore my repositories and check out my projects.
 
-Keep Learning. Keep Building. Keep Growing! 🚀
 
 

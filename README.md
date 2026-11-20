@@ -42,4 +42,26 @@ I love learning new technologies, solving problems, and building projects that p
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 </p>
 
+## 📫 Let's Connect!
+
+<p align="center">
+  <a href="https://github.com/mahmouKondoz" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="50" height="50" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.icons8.com/color/96/gmail-new.png" width="50" height="50" alt="Gmail" />
+  </a>
+</p>
+
+<p align="center">
+  Feel free to reach out for collaboration or opportunities!
+</p>
+
+✨ Thanks for visiting my profile!
+
+⭐ Feel free to explore my repositories and check out my projects.
+
+Keep Learning. Keep Building. Keep Growing! 🚀
+
 
